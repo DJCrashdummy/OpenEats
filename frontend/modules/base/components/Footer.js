@@ -28,7 +28,7 @@ class Footer extends React.Component{
               defaultMessage='Icons by {link} ({ccLink})'
               values={{
                 link: <a href="http://www.flaticon.com/authors/nikita-golubev" title="Nikita Golubev">Nikita Golubev</a>,
-                ccLink: <a href="http://creativecommons.org/licenses/by/3.0/" title="(CC BY 3.0)" target="_blank">(CC BY 3.0)</a>
+                ccLink: <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons" target="_blank">CC BY 3.0</a>
               }}
             />
           </p>
