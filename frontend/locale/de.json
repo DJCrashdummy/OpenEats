@@ -8,7 +8,7 @@
   "404.header": "Unsere Köche haben das Rezept in der Testküche versaut, bitte versuchen Sie etwas anderes.",
   "404.message": "Entschuldigung! Ein 404 Fehler ist aufgetreten, wir können nicht finden wonach Sie suchen.",
   "footer.credit": "Erstellt mit {link}",
-  "footer.icon_credit": "Symbole erstellt von {link} ({ccLink})",
+  "footer.icon_credit": "Symbole von {link} ({ccLink})",
   "browse.no_results": "Leider gibt es zu dieser Anfrage keine Ergebnisse.",
   "filter.filter_x": "Filter {title}",
   "filter.clear_filter": "Filter leeren",
