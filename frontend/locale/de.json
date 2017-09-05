@@ -34,7 +34,7 @@
   "nav.recipes": "Rezepte durchsuchen",
   "grocery_list.my_lists": "Meine Listen",
   "grocery_list.footer": "Doppelklicken Sie auf einen Eintrag, um diesen zu verändern.",
-  "list.new-input-placeholder": "Was brauchen Sie?",
+  "list.new-input-placeholder": "Was benötigen Sie noch?",
   "list.footer.items_left": "{itemCount, plural, =0 {Keine Einträge übrig} one {1 Eintrag übrig} other {{itemCount} Einträge übrig}}",
   "list.footer.all": "Alle",
   "list.footer.completed": "Fertig",
