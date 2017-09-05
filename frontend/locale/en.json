@@ -34,7 +34,7 @@
   "nav.recipes": "Browse recipes",
   "grocery_list.my_lists": "My Lists",
   "grocery_list.footer": "Double Click to edit an item.",
-  "list.new-input-placeholder": "What do you need?",
+  "list.new-input-placeholder": "What else do you need?",
   "list.footer.items_left": "{itemCount, plural, =0 {No items} one {1 item left} other {{itemCount} items left}}",
   "list.footer.all": "All",
   "list.footer.completed": "Completed",
